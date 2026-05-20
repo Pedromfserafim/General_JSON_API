@@ -3,7 +3,7 @@
 
 Basic structure for a API webapp:
 
-myApp/<br>
+myApp/module01/<br>
 |<br>
 | ___index.html<b> - (Priority 01)</b><br>
 | ___page01.html<br>
