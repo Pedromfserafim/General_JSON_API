@@ -3,6 +3,8 @@
 
 Basic structure for a API webapp:
 
+| ___/Frontend/<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___/<br>
 | ___/Backend/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___/api/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___GET(url).js (to get data from a server)<br>
