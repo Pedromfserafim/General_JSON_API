@@ -14,7 +14,7 @@ MyApp/<br>
 | ___page(...).html<br>
 |<br>
 | ___Frontend/<br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___main.js<br><b> - Priority 01</b>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___main.js<b> - Priority 01</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___css/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___grid.css<br>
