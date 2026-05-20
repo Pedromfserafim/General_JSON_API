@@ -1,0 +1,39 @@
+auth-system/ (diretório raiz do projeto)
+│
+├── frontend/ (código que roda no navegador - interface do usuário)
+│   ├── pages/ (páginas HTML da aplicação)
+│   │   ├── login.html (página onde o utilizador faz login)
+│   │   └── register.html (página onde o utilizador cria conta)
+│   │
+│   ├── css/ (ficheiros de estilo visual)
+│   │   └── styles.css (estilos principais do site)
+│   │
+│   ├── js/ (scripts JavaScript do frontend)
+│   │   └── auth.js (lógica de autenticação e chamadas à API)
+│   │
+│   └── assets/ (recursos estáticos como imagens, ícones, logos)
+│
+├── backend/ (código que roda no servidor)
+│   ├── src/ (código fonte principal do backend)
+│   │   ├── controllers/ (lógica das funcionalidades do sistema)
+│   │   │   └── authController.js (controla login, cadastro, validações)
+│   │   │
+│   │   ├── routes/ (define os endpoints da API)
+│   │   │   └── authRoutes.js (rotas como /login e /register)
+│   │   │
+│   │   ├── models/ (define a estrutura dos dados)
+│   │   │   └── userModel.js (modelo de utilizador no sistema)
+│   │   │
+│   │   ├── middleware/ (funções intermédias, ex: segurança)
+│   │   │   └── authMiddleware.js (valida tokens e protege rotas)
+│   │   │
+│   │   ├── config/ (configurações do sistema)
+│   │   │   └── db.js (configuração da ligação à base de dados)
+│   │   │
+│   │   └── server.js (ponto de entrada - inicia o servidor)
+│   │
+│   ├── package.json (lista de dependências e scripts do Node.js)
+│   └── .env (variáveis sensíveis: passwords, chaves secretas)
+│
+├── README.md (documentação do projeto - como usar e instalar)
+└── .gitignore (define arquivos que não devem ser enviados ao GitHub)
