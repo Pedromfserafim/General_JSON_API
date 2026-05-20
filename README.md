@@ -6,6 +6,11 @@ Basic structure for a API webapp:
 | ___/Frontend/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___main.js<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___render/<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___Render_Object01.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___Render_Object02.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___Render_Object03.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___Render_Object(...).js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___render/<br>
 |<br>
