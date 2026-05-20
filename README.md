@@ -33,7 +33,6 @@ MyApp/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn_03_action.js<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn_04_action.js<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn_(...)_action.js<br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 |<br>
 | ___/Backend/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classes/<br>
