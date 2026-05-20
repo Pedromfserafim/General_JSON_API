@@ -5,7 +5,7 @@ Basic structure for a API webapp:
 
 MyApp/<br>
 |<br>
-| ___index.html<br><b> - Priority 01</b>
+| ___index.html<b> - Priority 01</b><br>
 | ___page01.html<br>
 | ___page02.html<br>
 | ___page03.html<br>
