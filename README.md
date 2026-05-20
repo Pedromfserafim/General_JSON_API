@@ -3,14 +3,14 @@
 
 Basic structure for a API webapp:
 
-
-index.html<br>
-page01.html<br>
-page02.html<br>
-page03.html<br>
-page04.html<br>
-page05.html<br>
-page(...).html<br>
+MyApp
+|index.html<br>
+|page01.html<br>
+|page02.html<br>
+|page03.html<br>
+|page04.html<br>
+|page05.html<br>
+|page(...).html<br>
 | ___/Frontend/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___main.js<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___render/<br>
