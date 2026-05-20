@@ -3,7 +3,7 @@
 
 Basic structure for a API webapp:
 
-MyApp/<br>
+myApp/<br>
 |<br>
 | ___index.html<b> - (Priority 01)</b><br>
 | ___page01.html<br>
@@ -13,7 +13,7 @@ MyApp/<br>
 | ___page05.html<br>
 | ___page(...).html<br>
 |<br>
-| ___Frontend/<br>
+| ___frontend/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___main.js<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___css/<b> - (Priority 01)</b><br>
@@ -57,7 +57,7 @@ MyApp/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___kb_(...)_action.js<br>
 |<br>
 |<br>
-| ___Backend/<br>
+| ___backend/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classes/<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classe_object01.js<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classe_object02.js<br>
