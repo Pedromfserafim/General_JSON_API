@@ -7,8 +7,10 @@ Backend JSON to do requestes:
 <br>|___PUT (to replace existing data)
 <br>|___PATCH (to update part of the data)
 <br>|___DELETE (to remove data from the server)
-<br>/data/
 <br>
+<br>/data/
+<br>|___Dataset_Object01.json
+<br>|___Dataset_Object02.json
 
 
  
