@@ -4,7 +4,7 @@
 Basic structure for a API webapp:
 
 | ___/Frontend/<br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___/<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___index.html<br>
 |<br>
 | ___/Backend/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___/api/<br>
