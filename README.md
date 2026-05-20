@@ -9,12 +9,13 @@ Backend JSON to do requestes:
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|__DELETE (url,id) (to remove data from the server)
 <br>|
 <br>|___/data/
+<br>|&nbsp;&nbsp;&nbsp;&nbsp;|___URL.js
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___Dataset_Object01.json
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___Dataset_Object02.json
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___(...)
 <br>|
 <br>|___/function/
-<br>|&nbsp;&nbsp;&nbsp;&nbsp;|___Render
+<br>|&nbsp;&nbsp;&nbsp;&nbsp;|___Render.js
 
 
  
