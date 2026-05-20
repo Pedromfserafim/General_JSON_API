@@ -4,7 +4,7 @@
 Backend JSON to do requestes:
 
 <br>|___/api/
-<br>|&nbsp;&nbsp;&nbsp;&nbsp;|<hr><hr><hr>GET(url) (to get data from a server)
+<br>|&nbsp;&nbsp;&nbsp;&nbsp;"|___"GET(url) (to get data from a server)
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___POST(url) (to send data and create a resource)
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___PUT(url,id) (to replace existing data)
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___PATCH (url,id) (to update part of the data)
