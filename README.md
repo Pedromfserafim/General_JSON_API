@@ -36,7 +36,7 @@ MyApp/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___render/<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___render_Array(Array, column01, column02, ...).js<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn_mouse/<b> - (Priority 01)</b><b> - (Priority 01)</b><br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn_mouse/<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn_01_click.js<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn_01_dbclick.js<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn_01_mouseover.js<b> - (Priority 01)</b><br>
@@ -65,7 +65,7 @@ MyApp/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classe_object(...).js<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___data/<b> - (Priority 01)</b><br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___url.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___url.js<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___dataset_objeto01.json<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___dataset_objeto02.json<b> - (Priority 01)</b><br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___dataset_objeto03.json<br>
