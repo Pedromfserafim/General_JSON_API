@@ -3,8 +3,8 @@
 
 Basic structure for a API webapp:
 
-Backend<br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___/api/<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___/Backend/<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___/api/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___GET(url).js (to get data from a server)<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___POST(url).js (to send data and create a resource)<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___PUT(url,id).js (to replace existing data)<br>
