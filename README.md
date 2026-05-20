@@ -6,8 +6,8 @@ Backend JSON to do requestes:
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___POST (to send data and create a resource)
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___PUT (to replace existing data)
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___PATCH (to update part of the data)
-<br>|&nbsp;&nbsp;&nbsp;&nbsp;|___DELETE (to remove data from the server)
-<br>
+<br>|&nbsp;&nbsp;&nbsp;&nbsp;|_DELETE (to remove data from the server)
+
 <br>|___/data/
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___Dataset_Object01.json
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___Dataset_Object02.json
