@@ -7,7 +7,8 @@ Backend JSON to do requestes:
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___GET(url) (to get data from a server)
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___POST(url) (to send data and create a resource)
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___PUT(url,id) (to replace existing data)
-<br>|&nbsp;&nbsp;&nbsp;&nbsp;|___PATCH (url,id) (to update part of the data)<br>
+<br>|&nbsp;&nbsp;&nbsp;&nbsp;|___PATCH (url,id) (to update part of the data)
+<br>|&nbsp;&nbsp;&nbsp;&nbsp;|   Delete
 <br>|&nbsp;&nbsp;&nbsp;&nbsp;|___DELETE (url,id) (to remove data from the server)
 <br>|
 <br>|___/data/
