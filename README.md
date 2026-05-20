@@ -39,6 +39,12 @@ MyApp<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___PATCH (url,id).js (to update part of the data)<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___DELETE (url,id).js (to delete existing data)<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classes/<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classe_object01.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classe_object02.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classe_object03.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___classe_object(...).js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___data/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___url.js<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___dataset_Objeto01.json<br>
