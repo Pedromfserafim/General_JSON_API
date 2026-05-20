@@ -3,7 +3,7 @@
 
 Basic structure for a API webapp:
 
-MyApp
+MyApp<br>
 | ___index.html<br>
 | ___page01.html<br>
 | ___page02.html<br>
