@@ -2,7 +2,7 @@
 Backend JSON to do requestes:
 
 <br>|___/api/
-<br>|   |___GET (to get data from a server)
+<br>|---|___GET (to get data from a server)
 <br>|   |___POST (to send data and create a resource)
 <br>|   |___PUT (to replace existing data)
 <br>|   |___PATCH (to update part of the data)
