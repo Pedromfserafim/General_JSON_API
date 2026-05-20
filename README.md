@@ -4,7 +4,10 @@
 Basic structure for a API webapp:
 
 | ___/Frontend/<br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___index.html<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___main.js<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___render/<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___btn/<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___render/<br>
 |<br>
 | ___/Backend/<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ___/api/<br>
